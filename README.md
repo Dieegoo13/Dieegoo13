@@ -9,7 +9,14 @@ Meu foco é me tornar **Desenvolvedor Web**, sempre estudando e criando projetos
 
 Aqui no GitHub você vai encontrar alguns dos meus projetos, desde exercícios de lógica até aplicações web completas.  
 
+
 <p align="left">
+    <a href="https://teu-link-aqui.com" target="_blank">
+      <img 
+        alt="Portfolio"
+        src="https://img.shields.io/badge/🌐%20Portfólio-Visitar-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"
+      />
+    </a>
     <a href="https://www.linkedin.com/in/diego-miranda-0238b02aa" target="_blank">
     <img 
         src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -23,7 +30,10 @@ Aqui no GitHub você vai encontrar alguns dos meus projetos, desde exercícios d
                 alt="LinkedIn"
         />
     </a> 
+
 </p>
+
+
 
 ---
 
