@@ -11,26 +11,26 @@ Aqui no GitHub você vai encontrar alguns dos meus projetos, desde exercícios d
 
 
 <p align="left">
-    <a href="https://teu-link-aqui.com" target="_blank">
-      <img 
-        alt="Portfolio"
-        src="https://dieegoo13.github.io/badge/🌐%20Portfólio-Visitar-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"
-      />
-    </a>
-    <a href="https://www.linkedin.com/in/diego-miranda-0238b02aa" target="_blank">
+  <a href="https://dieegoo13.github.io/teu-portfolio" target="_blank">
     <img 
-        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
-        alt="LinkedIn"
+      alt="Portfólio" 
+      src="https://img.shields.io/badge/🌐%20Portfólio-Visitar-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" 
     />
-    </a>
-    <a href="https://www.linkedin.com/in/diego-miranda-0238b02aa">
-        <img 
-            alt="Linkedin" 
-                src="https://custom-icon-badges.demolab.com/badge/-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" 
-                alt="LinkedIn"
-        />
-    </a> 
+  </a>
+  
+  <a href="https://www.linkedin.com/in/diego-miranda-0238b02aa" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
 
+  <a href="https://www.linkedin.com/in/diego-miranda-0238b02aa" target="_blank">
+    <img 
+      alt="Conectar" 
+      src="https://custom-icon-badges.demolab.com/badge/-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" 
+    />
+  </a>
 </p>
 
 
