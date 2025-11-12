@@ -11,7 +11,7 @@ Aqui no GitHub você vai encontrar alguns dos meus projetos, desde exercícios d
 
 
 <p align="left">
-  <a href="https://dieegoo13.github.io/teu-portfolio" target="_blank">
+  <a href="https://dieegoo13.github.io" target="_blank">
     <img 
       alt="Portfólio" 
       src="https://img.shields.io/badge/🌐%20Portfólio-Visitar-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" 
